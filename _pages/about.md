@@ -27,7 +27,7 @@ Off the Clock
 When I'm not diving into research, you'll find me strumming tunes, sweating it out at the gym, or on the ultimate foodie adventure across Hong Kong. Whether conquering peaks during a hike or embracing culinary exploration, I'm all in. However, living in Hong Kong means my kitchen is cozier than I'd like for whipping up new recipes. As a result, I've temporarily traded my chef's hat for a journal, using my leisure time to chronicle experiences rather than culinary experiments.
 
 <div style="text-align: center;">
-<img src="/images/pancake.jpg" alt="eating pancake" style="width: 60%;" />
+<img src="/images/pancake.png" alt="eating pancake" style="width: 30%;" />
 <br style="clear: both;" />
 </div>
 <br style="clear: both;" />
