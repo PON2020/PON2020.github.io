@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Harvey's Homepage!"
+title: "Welcome to Zhuang Qiu's Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
