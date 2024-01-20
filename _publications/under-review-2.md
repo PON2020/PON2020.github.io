@@ -2,7 +2,7 @@
 title: 'Under Review: Pragmatic Implicature Processing in ChatGPT'
 collection: publications
 permalink: /publication/under-review-2
-excerpt: "<p>The manuscript has been submitted to the <i>Journal of Memory and Language</i>, and is currently under review.<br></p>Recent large language models (LLMs) and LLM-driven chatbots, such as ChatGPT, have sparked debate regarding whether these artificial systems can develop human-like cognitive capacities. We examined this issue by investigating whether ChatGPT resembles humans in its ability to enrich literal meanings of utterances with pragmatic implicatures."
+excerpt: "<p>The manuscript has been submitted to the <i>British Journal of Psychology</i>, and is currently under review.<br></p>Recent large language models (LLMs) and LLM-driven chatbots, such as ChatGPT, have sparked debate regarding whether these artificial systems can develop human-like cognitive capacities. We examined this issue by investigating whether ChatGPT resembles humans in its ability to enrich literal meanings of utterances with pragmatic implicatures."
 date: 2023-05-01
 venue: 'PsyArXiv Preprints'
 paperurl: 'https://psyarxiv.com/qtbh9/'
