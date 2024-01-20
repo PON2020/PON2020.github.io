@@ -1,5 +1,5 @@
 ---
-title: "Under Review: Word Order and Adjacency in the Processing of Nested Epistemic Expressions"
+title: "Word Order and Adjacency in the Processing of Nested Epistemic Expressions"
 collection: publications
 permalink: /publication/under-review-1
 excerpt: "Two theoretical approaches provide different account for the cognitive mechanisms that underlie the semantic processing of nested epistemic expressions. We examined these two accounts in three experiments that elicited participants' interpretation of nested epistemic expressions, focusing on whether or not the order and the adjacency of the component modals affected how the nested expressions are interpreted."
